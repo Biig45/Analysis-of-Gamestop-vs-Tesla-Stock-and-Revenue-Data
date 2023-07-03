@@ -1,4 +1,4 @@
-# Analysis-of-Gamestop-vs-Tesla-Stock-and-Revenue-Data
+# Analysis_Gamestop_v_Tesla_Stock_and_Revenue_Data
 
 This project was a part of IBM's Coursera course (Python Project for Data Science).
 
